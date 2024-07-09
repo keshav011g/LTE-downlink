@@ -7,7 +7,7 @@ Transmitter and Receiver hardware : Zedboard (Xilinx Zynq®-7000) + AD9361 (Anal
 
 ![Program GUI_RX](Readme_image/Hardware.jpg)
 
-# Software needed :
+# Software used :
 
 * [Libiio Library](https://github.com/analogdevicesinc/libiio/releases)
 * [Zynq Linux Image](https://wiki.analog.com/resources/tools-software/linux-software/zynq_images)
